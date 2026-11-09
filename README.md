@@ -11,7 +11,7 @@ The system has two primary user groups : Organisers and Participants. Each user 
 
 ### 1. Authentication and Navigation
 
-The system allows set an accounts and log in securely. After logged in, users can access features and tools based on their assigned roles.
+The system allows set an accounts and log in securely. After logged in, users can access features and tools based on their specific roles.
 
 The application also includes:
 - User registration and login.
