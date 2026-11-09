@@ -26,7 +26,7 @@ Organisers have access to a dashboard where they can manage running events and k
 
 The main features include:
 - Viewing event information and enrolment summaries.
-- Creating, editing and deleting events.
+- Creating, Making editing and deleting events.
 - Managing event categories based on age groups and race distances.
 - Viewing participants who have enrolled in specific events.
 - Checking the enrolment status of participants.
