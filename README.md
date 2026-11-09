@@ -68,7 +68,7 @@ The MVC application does not connect directly to the database. Instead, it sends
 The application follows the Model-View-Controller (MVC) design pattern:
 
 - **Models:** Store and represent the data used by the application.
-- **Views:** Display the pages and information that users see.
+- **Views:** Display the pages and information that users must see.
 - **Controllers:** Handle user requests and communicate with the API to perform the required operations.
 
 This structure helps keep the application organised and makes it easier to maintain and update.
