@@ -16,7 +16,7 @@ The system allows set an accounts and log in securely. After logged in, users ca
 The application also includes:
 - Account registration and login.
 - Session handling to keep users logged in.
-- Different navigation options for Organisers and Participants.
+- Different navigation options and tools for Organisers and Participants.
 - A secure logout feature.
 - Protection of pages that should only be accessed by logged-in users.
 
