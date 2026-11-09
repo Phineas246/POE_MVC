@@ -44,7 +44,7 @@ The main features include:
 - Enrolling in events and selecting a category.
 - Viewing personal enrolments and their statuses.
 - Checking personal race results.
-- Updating personal information and uploading profile pictures.
+- Updating personal information and uploading profile pictures and to the users.
 
 ## Technologies Used
 
