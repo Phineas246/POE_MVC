@@ -17,7 +17,7 @@ The application also includes:
 - Account registration and login.
 - Session handling to keep users logged in.
 - Different navigation options and tools for Organisers and Participants.
-- A secure logout feature.
+- A safe and secure logout feature.
 - Protection of pages that should only be accessed by logged-in users.
 
 ### 2. Organiser Interface
