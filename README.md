@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-RaceDay is a web-based event management system developed to make it easier to organise and manage running events. Part 3 focuses on building an ASP.NET Core MVC application that connects to the Web API developed in Part 2.
+RaceDay is an web-based event management system developed to make it easier to organise and manage running events. Part 3 focuses on building an ASP.NET Core MVC application that connects to the Web API developed in Part 2.
 
 The system has two main types of users: Organisers and Participants. Each user has access to different features depending on their role. Organisers can manage events and participants, while Participants can browse events, enrol in races and view their results.
 
