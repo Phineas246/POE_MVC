@@ -11,7 +11,7 @@ The system has two main types of users: Organisers and Participants. Each user h
 
 ### 1. Authentication and Navigation
 
-The system allows users to create accounts and log in securely. Once logged in, users can access features based on their assigned roles.
+The system allows users to create accounts and log in securely. Once logged in, users can access features and tools based on their assigned roles.
 
 The application also includes:
 - User registration and login.
